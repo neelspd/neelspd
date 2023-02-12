@@ -74,7 +74,7 @@ Outside of my office, I Like to,
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Crow framework](https://crowcpp.org/master/)
+![Crow framework](https://img.shields.io/badge/Crow_for_C%2B%2B-white?style=for-the-badge)
 
 ### Cloud and Container Technologies
 
