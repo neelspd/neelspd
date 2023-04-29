@@ -7,7 +7,7 @@ Outside of office, I Like to,
 * I am a trained photographer, please do check my Instagram for my work
 * And, wiredly enough I like to read about the latest research in Computer Science, Mathematics, and some non-fiction books
 
-## Current Projects
+<!-- ## Current Projects
 
 ### Professional Projects
 
@@ -33,11 +33,11 @@ Outside of office, I Like to,
 
 - P2P Chat Application 
 - Chat Application with Centeral Exchange Hub Implimentation
-<!-- 
+
 - Live-In Learning management System
 - Live-In ERP System for Education and Counselling Domain 
 - [ ] CI/CD Toolchain
--->
+
 
 ## My Tech Stack(s)
 
@@ -107,7 +107,7 @@ Software Engineering Patterns,
 > Not at this point of time, but will update is soon
 
 
-
+-->
 
 
 
