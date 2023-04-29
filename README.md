@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I am Neel, I am Software Enginering by Profession and by Education, I have been working as a software engineer on several projects ranging from IoT and Embedded Systems to Language Compilers and SaaS products. **Academic Research Interests: Distributed Systems and Internet of Things**
+I am Neel, I am Software Engineer by Profession and by Education, I have worked on projects ranging from IoT and Embedded Systems to Language Compilers and SaaS products. **Academic Research Interests: Distributed Systems and Internet of Things**
 
-Outside of my office, I Like to,
+Outside of office, I Like to,
 * Travel (Backpacked through Europe in 2020-2021, In total visited around 20 countries in my lifetime)
 * I am a trained photographer, please do check my Instagram for my work
 * And, wiredly enough I like to read about the latest research in Computer Science, Mathematics, and some non-fiction books
@@ -16,10 +16,11 @@ Outside of my office, I Like to,
 - IoT and Embedded System for Non-Destructive testing of Materials
 - Compiler for a Domain Specific Language
 - SaaS products for Digial Industries and Railways
+- ERP system for Manufacturing Industries
 
 #### Current Project(s)
 
-- ERP system for Manufacturing Industries
+
 
 ### Personal Projects
 
@@ -49,7 +50,6 @@ Outside of my office, I Like to,
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring_boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
