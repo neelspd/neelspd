@@ -109,7 +109,13 @@ Software Engineering Patterns,
 
 -->
 
+<!--
+     A Software Engineering practioner turned Academic, currently holding a tenured position at a Central University, Have around 11 years of experience, during which I have worked on projects in the domains of Embbed Systems/IoT. Domain Specific Language, Enterprise SaaS products, and e-governance (primarily DigiLocker),
+    Sucessfully founded and ran a profitable Technology (SaaS products, IT Consulting, and Digital Transformation) and a profitable Semi-Technology companies (in Tourism and Hospitality, FMCG, F&B, and Rentals). Has a Masters' Degree in Softwar System Science from University of Bamberg, Germany, and a PhD Degree in Cyber Physical Systems from IISc, Bangalore.
+Subject Taught:
+Academic Reseaerch Interests: Distributed Systems and Internet of Things
 
+-->
 
 <!--
 **neelspd/neelspd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
