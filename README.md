@@ -1,6 +1,7 @@
-# Hi there 👋, Thank you for visiting my profile! 😊
+# Hi there 👋, 
+## Thank you for visiting my profile! 😊
 
-## IAM
+### IAM
 A Computer Scientist and Software Engineer with approximately 3 years of experience in developing and deploying software applications across various domains, including IoT, DSL Compiler, SaaS products, and Cloud Computing. Currently, I am working in the public sector, actively involved in projects focused on enabling paperless and e-governance solutions for the Government of India.
 
 With a strong foundation in computer science fundamentals, such as data structures, algorithms, programming languages, and software engineering principles, I possess a deep understanding of the core principles that drive efficient software development. I am proficient in Python, C/C++, Java, and JavaScript, and I am well-versed in frameworks and tools like Angular, Django, Flask, Git, Docker, and AWS.
@@ -14,7 +15,7 @@ Feel free to connect with me if you are interested in discussing industry trends
 Academic Research Interests : Distributed Systems, and Internet of Things
 
 
-## Outside of office, I Like to,
+### Outside of office, I Like to,
 * Travel (Backpacked through Europe in 2020-2021, In total visited around 20 countries in my lifetime)
 * I am a trained photographer, please do check my Instagram for my work
 * And, wiredly enough I like to read about the latest research in Computer Science, Mathematics, and some non-fiction books
