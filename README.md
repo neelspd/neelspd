@@ -1,6 +1,19 @@
 # Hi there 👋
 
-I am Neel, I am Software Engineer by Profession and by Education, I have worked on projects ranging from IoT and Embedded Systems to Language Compilers and SaaS products. **Academic Research Interests: Distributed Systems and Internet of Things**
+Hello! Thank you for visiting my profile! 😊
+
+I am a Computer Scientist and Software Engineer with approximately 3 years of experience in developing and deploying software applications across various domains, including IoT, DSL Compiler, SaaS products, and Cloud Computing. Currently, I am working in the public sector, actively involved in projects focused on enabling paperless and e-governance solutions for the Government of India.
+
+With a strong foundation in computer science fundamentals, such as data structures, algorithms, programming languages, and software engineering principles, I possess a deep understanding of the core principles that drive efficient software development. I am proficient in Python, C/C++, Java, and JavaScript, and I am well-versed in frameworks and tools like Angular, Django, Flask, Git, Docker, and AWS.
+
+My educational background includes a Bachelor of Engineering in Computer Engineering from G H Patel College of Engineering and Technology (Gujarat Technological University). Additionally, I hold a Master of Science in Software System Science from the University of Bamberg, Germany.
+
+I am passionate about leveraging technology to drive positive change and create impactful solutions. Through my work in the public sector, I am actively contributing to the digital transformation of governance systems in India, aiming to enable efficient and transparent processes. I am always eager to learn and explore emerging technologies and methodologies. I thrive in collaborative environments, and I enjoy working with diverse teams to tackle complex challenges and deliver high-quality software solutions.
+
+Feel free to connect with me if you are interested in discussing industry trends, best practices, or research topics related to distributed systems and the Internet of Things
+
+**Academic Research Interests :** Distributed Systems, and Internet of Things
+
 
 Outside of office, I Like to,
 * Travel (Backpacked through Europe in 2020-2021, In total visited around 20 countries in my lifetime)
