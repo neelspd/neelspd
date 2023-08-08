@@ -12,10 +12,10 @@ I am passionate about leveraging technology to drive positive change and create 
 
 Feel free to connect with me if you are interested in discussing industry trends, best practices, or research topics related to distributed systems and the Internet of Things
 
-**Academic Research Interests :** Distributed Systems, and Internet of Things
+Academic Research Interests : Distributed Systems, and Internet of Things
 
 
-Outside of office, I Like to,
+## Outside of office, I Like to,
 * Travel (Backpacked through Europe in 2020-2021, In total visited around 20 countries in my lifetime)
 * I am a trained photographer, please do check my Instagram for my work
 * And, wiredly enough I like to read about the latest research in Computer Science, Mathematics, and some non-fiction books
