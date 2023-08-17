@@ -2,7 +2,7 @@
 ## Thank you for visiting my profile! 😊
 
 ### IAM
-A Computer Scientist and Software Engineer with approximately 3 years of experience in developing and deploying software applications across various domains, including IoT, DSL Compiler, SaaS products, and Cloud Computing. Currently, I am working in the public sector, actively involved in projects focused on enabling paperless and e-governance solutions for the Government of India. 
+A Computer Scientist and Software Engineer with approximately 3 years of experience in developing and deploying software applications across various domains, including IoT, DSL Compiler, SaaS products, and Cloud Computing. Currently, I am working in the public sector, actively involved in projects focused on enabling paperless and e-governance solutions. 
 
 With a strong foundation in computer science fundamentals, such as data structures, algorithms, programming languages, and software engineering principles, I possess a deep understanding of the core principles that drive efficient software development. I am proficient in Python, C/C++, Java, and JavaScript, and I am well-versed in frameworks and tools like Angular, Django, Flask, Git, Docker, and AWS. 
 
