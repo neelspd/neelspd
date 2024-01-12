@@ -4,7 +4,7 @@
 ### IAM
 A Computer Scientist and Software Engineer with approximately 3 years of experience in developing and deploying software applications across various domains, including IoT, DSL Compiler, SaaS products, and Cloud Computing. Currently, I am working in the public sector, actively involved in projects focused on enabling paperless and e-governance solutions. 
 
-I am an advocate of leveraging technology to drive positive change and create impactful solutions. And my work in the public sector, I am able actively contribute (how small it may be) in the digital transformation of governance systems in India, aiming to enable efficient and transparent processes. Feel free to connect with me if you are interested in discussing industry trends, best practices, or research topics related to distributed systems and the Internet of Things
+Feel free to connect with me if you are interested in discussing industry trends, best practices, or research topics related to distributed systems and the Internet of Things
 
 Academic Research Interests : Distributed Systems, and Internet of Things
 
